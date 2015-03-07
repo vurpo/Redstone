@@ -1,0 +1,344 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "max@sandholm.org",
+    "longName": "MCClock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/resized_clock63.png",
+                "name": "IMAGE_CLOCK_63",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock62.png",
+                "name": "IMAGE_CLOCK_62",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock61.png",
+                "name": "IMAGE_CLOCK_61",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock60.png",
+                "name": "IMAGE_CLOCK_60",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock59.png",
+                "name": "IMAGE_CLOCK_59",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock58.png",
+                "name": "IMAGE_CLOCK_58",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock57.png",
+                "name": "IMAGE_CLOCK_57",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock56.png",
+                "name": "IMAGE_CLOCK_56",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock55.png",
+                "name": "IMAGE_CLOCK_55",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock54.png",
+                "name": "IMAGE_CLOCK_54",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock53.png",
+                "name": "IMAGE_CLOCK_53",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock52.png",
+                "name": "IMAGE_CLOCK_52",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock51.png",
+                "name": "IMAGE_CLOCK_51",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock50.png",
+                "name": "IMAGE_CLOCK_50",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock49.png",
+                "name": "IMAGE_CLOCK_49",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock48.png",
+                "name": "IMAGE_CLOCK_48",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock47.png",
+                "name": "IMAGE_CLOCK_47",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock46.png",
+                "name": "IMAGE_CLOCK_46",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock45.png",
+                "name": "IMAGE_CLOCK_45",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock44.png",
+                "name": "IMAGE_CLOCK_44",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock43.png",
+                "name": "IMAGE_CLOCK_43",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock42.png",
+                "name": "IMAGE_CLOCK_42",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock41.png",
+                "name": "IMAGE_CLOCK_41",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock40.png",
+                "name": "IMAGE_CLOCK_40",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock39.png",
+                "name": "IMAGE_CLOCK_39",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock38.png",
+                "name": "IMAGE_CLOCK_38",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock37.png",
+                "name": "IMAGE_CLOCK_37",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock36.png",
+                "name": "IMAGE_CLOCK_36",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock35.png",
+                "name": "IMAGE_CLOCK_35",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock34.png",
+                "name": "IMAGE_CLOCK_34",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock33.png",
+                "name": "IMAGE_CLOCK_33",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock32.png",
+                "name": "IMAGE_CLOCK_32",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock31.png",
+                "name": "IMAGE_CLOCK_31",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock30.png",
+                "name": "IMAGE_CLOCK_30",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock29.png",
+                "name": "IMAGE_CLOCK_29",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock28.png",
+                "name": "IMAGE_CLOCK_28",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock27.png",
+                "name": "IMAGE_CLOCK_27",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock26.png",
+                "name": "IMAGE_CLOCK_26",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock25.png",
+                "name": "IMAGE_CLOCK_25",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock24.png",
+                "name": "IMAGE_CLOCK_24",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock23.png",
+                "name": "IMAGE_CLOCK_23",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock22.png",
+                "name": "IMAGE_CLOCK_22",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock21.png",
+                "name": "IMAGE_CLOCK_21",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock20.png",
+                "name": "IMAGE_CLOCK_20",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock19.png",
+                "name": "IMAGE_CLOCK_19",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock18.png",
+                "name": "IMAGE_CLOCK_18",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock17.png",
+                "name": "IMAGE_CLOCK_17",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock16.png",
+                "name": "IMAGE_CLOCK_16",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock15.png",
+                "name": "IMAGE_CLOCK_15",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock14.png",
+                "name": "IMAGE_CLOCK_14",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock13.png",
+                "name": "IMAGE_CLOCK_13",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock12.png",
+                "name": "IMAGE_CLOCK_12",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock11.png",
+                "name": "IMAGE_CLOCK_11",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock10.png",
+                "name": "IMAGE_CLOCK_10",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock09.png",
+                "name": "IMAGE_CLOCK_09",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock08.png",
+                "name": "IMAGE_CLOCK_08",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock07.png",
+                "name": "IMAGE_CLOCK_07",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock06.png",
+                "name": "IMAGE_CLOCK_06",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock05.png",
+                "name": "IMAGE_CLOCK_05",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock04.png",
+                "name": "IMAGE_CLOCK_04",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock03.png",
+                "name": "IMAGE_CLOCK_03",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock02.png",
+                "name": "IMAGE_CLOCK_02",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock01.png",
+                "name": "IMAGE_CLOCK_01",
+                "type": "png"
+            },
+            {
+                "file": "images/resized_clock00.png",
+                "name": "IMAGE_CLOCK_00",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MCClock",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "006bbb0a-4586-461f-890d-7558f235613a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
